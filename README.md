@@ -7,5 +7,5 @@ Vous trouverez dans ce repository :
 	un fichier main.py, un script python testé avec la version 3.5 et utilisant
 la librairie tkinter.
 
-Ce programme consiste uniquement une fenêtre demandant à l'utilisateur son nom et 
-affiche les traditionnelles salutations.
+Ce programme consiste uniquement en une fenêtre demandant à l'utilisateur son nom et 
+affiche les traditionnelles salutations grâce à une boite de message.
